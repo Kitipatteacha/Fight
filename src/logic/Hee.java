@@ -2,7 +2,9 @@ package logic;
 
 public class Hee {
 	
-	public Hee() {
-		
+	String name;
+	
+	public Hee(String name) {
+		this.name = name;
 	}
 }
